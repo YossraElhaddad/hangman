@@ -11,3 +11,5 @@ The player can choose whether he/she prefers to start a new game or resume an un
 the game state is saved in 'game_state.yml'
 
 The game state file is cleared once the game is over.
+
+In order to play the game, type "ruby main.rb" in the command line.
