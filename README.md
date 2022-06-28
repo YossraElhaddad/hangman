@@ -12,4 +12,4 @@ the game state is saved in 'game_state.yml'
 
 The game state file is cleared once the game is over.
 
-In order to play the game, type "ruby main.rb" in the command line.
+In order to play the game, type ``` ruby main.rb ``` in the command line.
